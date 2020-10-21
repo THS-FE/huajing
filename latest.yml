@@ -1,0 +1,8 @@
+version: 1.1.0
+files:
+  - url: huajing-setup-1.1.0.exe
+    sha512: ofMRoLhytEFvAZajl2H1Ut7IqqsjbhaPDZH5DNK/XNxW0Rd0F9n6y0OMLfqOy65yDssA60XY3XThCTB/qoeWCQ==
+    size: 55095974
+path: huajing-setup-1.1.0.exe
+sha512: ofMRoLhytEFvAZajl2H1Ut7IqqsjbhaPDZH5DNK/XNxW0Rd0F9n6y0OMLfqOy65yDssA60XY3XThCTB/qoeWCQ==
+releaseDate: '2020-10-21T09:54:45.028Z'
